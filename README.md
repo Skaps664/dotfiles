@@ -1,1 +1,6 @@
-dotfiles configs
+dotfiles configs of:
+
+zsh
+kitty
+gitconfig
+
