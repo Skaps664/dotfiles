@@ -1,6 +1,6 @@
 #  my zshrc
 
-# generate auto colros and change prompt
+# generate colors and remove username and machinename from prompt and export it
 autoload -U colors && colors
 PS1="%{$fg[blue]%}%~%{$fg[red]%}%{$fg[green]%}>>%b"
 
@@ -22,4 +22,5 @@ _comp_options+=(globdots)
 
 #opening .zshrc by command
 alias zrc="$EDITOR $HOME/.zshrc"
+
 
