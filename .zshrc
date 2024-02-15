@@ -2,7 +2,9 @@
 
 # generate auto colros and change prompt
 autoload -U colors && colors
-PS1="%B%{$fg[red]%}[%{$fg[yellow]%}%n%{$fg[green]%}@%{$fg[blue]%}%M %{$fg[magenta]%}%~%{$fg[red]%}]%{$reset_color%}$%b "
+PS1="%{$fg[blue]%}%~%{$fg[red]%}%{$fg[green]%}>>%b"
+
+
 
 # history
 HISTFILE=~/.histfile
@@ -20,3 +22,4 @@ _comp_options+=(globdots)
 
 #opening .zshrc by command
 alias zrc="$EDITOR $HOME/.zshrc"
+
