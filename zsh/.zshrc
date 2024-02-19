@@ -8,7 +8,7 @@ precmd_vcs_info() { vcs_info }
 
 # generate colors and remove username and machinename from prompt and export it
 autoload -U colors && colors
-PS1="%{$fg[blue]%} %~ %{$fg[red]%}%{$fg[green]%}>>%b "
+PS1="[%{$fg[blue]%}%~%{$fg[white]%}]%{$fg[green]%} >>%b "
 
 # history
 HISTFILE=~/.histfile
