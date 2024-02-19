@@ -8,4 +8,4 @@ git
 
 wallpapers:
 
-![img](home/sudaisk/.dotfiles/wallpapers "grey-owl.jpg")
+![img](wallpapers/ "grey-owl.jpg")
