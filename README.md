@@ -1,11 +1,9 @@
-Local config/dot files
+## Local config/dot files
 
-kitty-terminal
-
-zsh-shell
-
-git
-
-wallpapers:
+- kitty-terminal
+- zsh-shell
+- git
+- wallpapers:
+  eg:
 
 ![img](wallpapers/grey-owl.jpg "Example wallpaper")
