@@ -1,6 +1,11 @@
-dotfiles configs of:
+Local config/dot files
 
-zsh
-kitty
-gitconfig
+kitty-terminal
 
+zsh-shell
+
+git
+
+wallpapers:
+
+![img](home/sudaisk/.dotfiles/wallpapers "grey-owl.jpg")
