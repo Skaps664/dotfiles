@@ -8,4 +8,4 @@ git
 
 wallpapers:
 
-![img](wallpapers/ "grey-owl.jpg")
+![img](wallpapers/grey-owl.jpg "Example wallpaper")
